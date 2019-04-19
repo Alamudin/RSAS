@@ -1,0 +1,103 @@
+.add_course_title{
+    color: white;
+    font-weight: normal;
+    font-family: Arial, Calibri, "Lucida Handwriting";
+    font-size: 40px;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 10px;
+    position: relative;
+    left: 2%;
+}
+.add_form{
+    width: 50%;
+    height: auto;
+    float: left;
+    position: relative;
+}
+label{
+    color: white;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: Calibri;
+    width: auto;
+    text-align: left;
+    position: relative;
+}
+.add_course_field{
+    width: 100%;
+    height: 50px;
+    border: 2px solid #cbcbcb;
+    border-radius: 5px;
+    font-size: 30px;
+    font-family: Calibri;
+    font-weight: normal;
+    position: relative;
+}
+.add_course_description{
+    width: 100%;
+    height: 150px;
+    border: 2px solid #cbcbcb;
+    border-radius: 5px;
+    font-size: 30px;
+    font-family: Calibri;
+    font-weight: normal;
+    position: relative;
+}
+.create{
+    background: #3438b6;
+    color: white;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    width: 30%;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+}
+.create:hover{
+    background: #3f44de;
+    cursor: pointer;
+}
+
+.add_courses_list{
+    color: white;
+    width: 49%;
+    height: auto;
+    float: left;
+    border-radius: 5px;
+    position: relative;
+    left: 1%;
+}
+
+.add_course_list_title{
+    background: #292929;
+    color: white;
+    font-weight: normal;
+    font-family: Arial, Calibri, "Lucida Handwriting";
+    font-size: 30px;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 0;
+    position: relative;
+}
+
+.courses{
+    font-size: 20px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+@media screen and (max-width: 720px){
+    .add_course_title{
+        text-align: center;
+        position: relative;
+        left: 0;
+    }
+    .add_form{
+        width: 90%;
+        position: relative;
+        left: 5%;
+    }
+}

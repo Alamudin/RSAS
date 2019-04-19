@@ -1,0 +1,677 @@
+body{
+    background: #d1d1d1;
+}
+
+.container{
+    width: 1491px;
+    position: relative;
+}
+
+.response-text{
+    background: #cbcbcb;
+    height: 40px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 0;
+    position: relative;
+}
+
+/*for the header*/
+header{
+    background: #006b9f;
+    width: 100%;
+    height: 80px;
+    margin-top: 60px;
+    position: relative;
+}
+
+.heading{
+    color: white;
+    font-family: Calibri;
+    font-size: 30px;
+    font-weight: normal;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+
+#search_form{
+    background: #e7e7e7;
+    width: 45%;
+    height: 40px;
+    border: 2px solid #bbbbbb;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    position: relative;
+}
+
+#fields{
+    background: none;
+    color: black;
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    width: 85%;
+    height: 100%;
+    border: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#submit{
+    background: none;
+    width: 15%;
+    height: 100%;
+    border: none;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    position: absolute;
+    left: 85%;
+    top: 0;
+}
+
+.menu{
+    display: inline-block;
+    background: #005285;
+    color: white;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    position: relative;
+}
+
+.menu-items{
+    background: none;
+    color: white;
+    width: 100px;
+    height: 100%;
+    border: none;
+    float: left;
+    margin-right: 5px;
+    margin-left: 5px;
+    position: relative;
+}
+
+.menu-items:hover{
+    background: #006b9f;
+}
+
+/* end of the header */
+
+/* for the left */
+
+.fixed-header{
+    display: inline-block;
+    background: #004376;
+    width: 1491px;
+    height: 60px;
+    text-align: left;
+    white-space: nowrap;
+    margin-left: 8px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.site-logo{
+    height: 100%;
+    width: 60px;
+    margin-left: 20px;
+    margin-right: 3px;
+    float: left;
+    position: relative;
+}
+
+.website-name{
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: lighter;
+    color: white;
+    height: 100%;
+    width: auto;
+    margin-top: 5px;
+    float: left;
+    position: relative;
+}
+
+.logo-container{
+    width: 50%;
+    height: 100%;
+    float: left;
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+.other{
+    display: inline-block;
+    white-space: nowrap;
+    width: 50%;
+    height: 100%;
+    float: left;
+    position: relative;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.user_info{
+    width: 30%;
+    height: 100%;
+    text-align: center;
+    float: left;
+    margin-top: 5px;
+    position: relative;
+}
+
+.username{
+    color: white;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: Arial;
+    float: left;
+    position: relative;
+}
+
+.user_image{
+    width: 6%;
+    height: 50px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 3px;
+    margin-top: 5px;
+    position: relative;
+}
+
+
+.item_image{
+    width: 15px;
+    height: 15px;
+}
+
+/* end of the left */
+
+/* for default page */
+
+.default_page_section{
+    width: 40%;
+    height: auto;
+    float: left;
+    text-align: left;
+    position: relative;
+    left: 10%;
+}
+
+.default_page_section_title{
+    display: none;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: "Lucida Sans";
+    margin: 0 0 0 0;
+    text-align: center;
+}
+
+.default_courses{
+    background: white;
+    color: black;
+    width: 90%;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    position: relative;
+}
+
+.default_page_bottom_buttons_container{
+    background: #d5cbb7;
+    width: 96%;
+    height: 15%;
+    position: relative;
+    left: 2%;
+}
+
+.default_page_image{
+    width: 96%;
+    height: 81%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    position: relative;
+    left: 2%;
+}
+
+.default_bottom_buttons{
+    background: none;
+    color: black;
+    font-family: Arial, Calibri, "Lucida Handwriting";
+    font-weight: lighter;
+    font-size: 12px;
+    width: 50%;
+    height: 100%;
+    border: none;
+    text-align: center;
+    float: left;
+    position: relative;
+}
+
+/* end of default page */
+
+/* for the upper user symbol */
+
+.upper_user_symbol{
+    background: none;
+    width: 210px;
+    height: 70px;
+    position: absolute;
+    left: 100px;
+}
+
+.upper_user_symbol_image{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.upper_user_symbol_name{
+    background: #bababa;
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: normal;
+    width: 150px;
+    height: 25px;
+    border-radius: 10px;
+    text-align: center;
+    position: absolute;
+    left: 60px;
+    top: 23px;
+}
+
+/* end of upper user symbol */
+
+.inner-container{
+    width: 100%;
+    text-align: center;
+    position: relative;
+    left: 25px;
+}
+
+.inner-left{
+    background: white;
+    opacity: 0.7;
+    color: black;
+    width: 70%;
+    height: auto;
+    border-radius: 10px;
+    text-align: center;
+    float: left;
+    margin-right: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.inner-right{
+    background: none;
+    opacity: 0.7;
+    color: black;
+    width: 25%;
+    height: auto;
+    text-align: center;
+    float: left;
+    margin-left: 35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+/* for edit profile */
+
+.edit_container{
+    width: 90%;
+    height: auto;
+    text-align: left;
+    position: relative;
+    left: 5%;
+}
+
+.edit_container form{
+    width: 100%;
+    height: auto;
+    position: relative;
+    left: 0;
+}
+
+.edit_fields{
+    background: white;
+    color: black;
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: Arial;
+    width: 50%;
+    height: 30px;
+    border: 2px solid #d6d6d6;
+    border-radius: 5px;
+    position: relative;
+}
+
+.edit_submit{
+    background: #2362c3;
+    color: white;
+    width: 10%;
+    height: 35px;
+    align-self: center;
+    font-size: 25px;
+    font-weight: normal;
+    font-family: "Arial Rounded MT Bold";
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+    position: relative;
+    left: 5%;
+}
+
+.submit:hover{
+    background: #288cff;
+}
+
+.edit_small_titles{
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: Calibri;
+    color: #3d3d3d;
+    width: auto;
+    position: relative;
+}
+
+#edit_horizontal{
+    color: #d6d6d6;
+    width: 90%;
+}
+
+/* end of edit profile */
+
+/* for result info */
+
+.result_info{
+    display: none;
+    background: rgba(0,5,195,0.85);
+    color: white;
+    width: 60%;
+    height: auto;
+    border-radius: 7px;
+    clear: both;
+    position: absolute;
+    left: 25%;
+    top: 200px;
+}
+
+.result_info p{
+    font-family: Arial,Calibri, "Lucida Handwriting";
+    font-weight: normal;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 80%;
+    height: auto;
+    word-wrap: break-word;
+    text-align: left;
+    position: relative;
+    left: 10px;
+}
+
+.exit_left{
+    background: none;
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+    width: 5%;
+    height: 25px;
+    border: none;
+    border-left: 2px solid white;
+    cursor: pointer;
+    position: absolute;
+    top: 5px;
+    left: 94%;
+}
+
+/* end of result info */
+
+/* for the footer */
+
+footer{
+    background: white;
+    opacity: 0.8;
+    color: black;
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+}
+.footer_info{
+    background: none;
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: Arial;
+    width: 25%;
+    height: 75%;
+    border-left: 1px solid white;
+    float: right;
+    text-align: left;
+    position: relative;
+}
+#copy_right{
+    color: #29271f;
+    font-family: monospace;
+    font-size: 13px;
+    font-weight: normal;
+    clear: both;
+    text-align: center;
+    position: relative;
+}
+/* end of the footer */
+
+@media screen and (max-width: 720px){
+    .container{
+        width: 680px;
+        position: relative;
+        left: 0;
+    }
+
+    /* for the header */
+    header{
+        width: 100%;
+        height: 125px;
+    }
+    #av{
+        font-size: 30px;
+        position: absolute;
+        top: 28%;
+    }
+    #search_form{
+        width: 60%;
+    }
+    #fields{
+        font-size: 20px;
+        font-weight: lighter;
+        width: 70%;
+    }
+    #submit{
+        width: 30%;
+        position: absolute;
+        left: 70%;
+    }
+    header input{
+        font-weight: bold;
+    }
+    nav{
+        width: 100%;
+        height: 20%;
+        text-align: left;
+        position: absolute;
+        left: 0;
+        top: 80%;
+    }
+    .nav_btn{
+        background: none;
+        color: white;
+        font-family: Arial;
+        font-size: 20px;
+        font-weight: lighter;
+        width: 25%;
+        height: 100%;
+        border: none;
+        position: relative;
+    }
+    /*end of the header*/
+
+    /* for result info */
+
+    .result_info{
+        width: 80%;
+        position: fixed;
+        left: 10%;
+        top: 400px;
+    }
+
+    .exit_left{
+        font-size: 30px;
+        height: auto;
+    }
+
+    /* end of result info*/
+
+    /* for left */
+
+    .fixed-header{
+        display: inline-block;
+        width: 680px;
+        overflow: auto;
+        height: 70px;
+        white-space: nowrap;
+        position: fixed;
+    }
+
+    .logo-container{
+    }
+
+    .website-name{
+        font-size: 40px;
+    }
+
+    .logo{
+        width: 60px;
+    }
+
+    .other{
+    }
+
+    .username{
+        display: none;
+        font-size: 30px;
+    }
+    .user_info{
+        font-family: Arial;
+        font-size: 20px;
+        font-weight: bold;
+        height: 100%;
+        width: 40%;
+        position: relative;
+    }
+    .user_image{
+        width: 20%;
+        height: 60px;
+    }
+
+    /* end of left */
+
+    .inner_container{
+        width: 100%;
+        float: none;
+        position: relative;
+        left: 0;
+    }
+
+    .inner-left{
+        width: 95%;
+    }
+
+    .inner-right{
+        width: 95%;
+        margin-left: 0;
+    }
+
+    /* for edit profile */
+
+    .edit_container{
+        width: 90%;
+        height: auto;
+        text-align: left;
+        position: relative;
+        left: 5%;
+    }
+    .edit_container form{
+        width: 100%;
+        height: auto;
+        position: relative;
+        left: 0;
+    }
+    .edit_fields{
+        font-size: 40px;
+        font-weight: normal;
+        width: 75%;
+        height: 50px;
+        border-radius: 7px;
+    }
+    .edit_submit{
+        width: 15%;
+        height: 50px;
+        font-size: 30px;
+        position: relative;
+        left: 5%;
+    }
+    .edit_small_titles{
+        font-size: 30px;
+        font-weight: normal;
+    }
+    #edit_horizontal{
+        color: #d6d6d6;
+        width: 90%;
+    }
+    /* end of edit profile */
+
+    /* for the footer */
+
+    footer{
+        height: auto;
+        text-align: center;
+    }
+    .footer_info{
+        width: 90%;
+        font-size: 35px;
+        float: none;
+        border-left: none;
+        border-bottom: 2px solid white;
+        position: relative;
+        left: 5%;
+    }
+    footer li{
+        font-size: 30px;
+    }
+    #copy_right{
+        font-size: 30px;
+    }
+    /* end of the footer */
+
+}

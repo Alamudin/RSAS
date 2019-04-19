@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b507601c-c2da-4c19-b674-38d9875390f7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="RSAS.net" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Student/rquest_manager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+              <folding>
+                <element signature="e#332#475#0#PHP" />
+                <element signature="e#477#580#0#PHP" />
+                <element signature="e#582#836#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Account_management/manage_user_accounts/account_request_manager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+              <folding>
+                <element signature="e#1876#2210#0#PHP" />
+                <element signature="e#2223#2705#0#PHP" />
+                <element signature="e#2760#3014#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Account_management/Logins/forgotepass_request_manager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Administration/Jobs/admin_jb_request_manager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Forums/ForumChat.php" />
+        <option value="$PROJECT_DIR$/Error.php" />
+        <option value="$PROJECT_DIR$/css/Error.css" />
+        <option value="$PROJECT_DIR$/teacher_page.php" />
+        <option value="$PROJECT_DIR$/teachers.RSAS.net/teacher_page.php" />
+        <option value="$PROJECT_DIR$/teachers.RSAS.net/teachers.js" />
+        <option value="$PROJECT_DIR$/teachers.RSAS.net/teachers.css" />
+        <option value="$PROJECT_DIR$/Users/student_page.php" />
+        <option value="$PROJECT_DIR$/teachers.RSAS.net/teachers.php" />
+        <option value="$PROJECT_DIR$/teachers.RSAS.net/teacher.css" />
+        <option value="$PROJECT_DIR$/../css/shared.css" />
+        <option value="$PROJECT_DIR$/../css/chat_page.css" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients' Account/Student/user_page_control.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients' Account/Student/rquest_manager.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients' Account/Student/dinamic_page_creator.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Account_management/Logins/check.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients' Account/Student/check.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Student/check.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Student/user_page_control.php" />
+        <option value="$PROJECT_DIR$/add_department.css" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Teachers/CourseAdmin.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Student/dinamic_page_creator.php" />
+        <option value="$PROJECT_DIR$/Activities.RSAS.net/course_and_forum/class_chat/course_request_manager.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients Account/First_Academics/Academy_display.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Account_management/Logins/login_request_manager.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Teachers/Teacher_display.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Account_management/forgetpassword/forgotepass_request_manager.php" />
+        <option value="$PROJECT_DIR$/start_sesstion.js" />
+        <option value="$PROJECT_DIR$/Ip_checker.php" />
+        <option value="$PROJECT_DIR$/css/header.css" />
+        <option value="$PROJECT_DIR$/info.RSAS.net/PageCreator.php" />
+        <option value="$PROJECT_DIR$/homepage.php" />
+        <option value="$PROJECT_DIR$/info.RSAS.net/messaging.php" />
+        <option value="$PROJECT_DIR$/info.RSAS.net/request_management.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Administration/Account/for_admin.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Administration/Account/class.Administrator.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Administration/Jobs/ManageMessages.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Administration/Jobs/admin_jb_request_manager.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients Account/First_Academics/AcademicOffice.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients Account/First_Academics/request_manager.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients Account/First_Academics/Department.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Teachers/teacher_request_manager.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Account_management/manage_user_accounts/account_request_manager.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Student/rquest_manager.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Student/Student.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Account_management/Logins/forgotepass_request_manager.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Account_management/Logins/class.login.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Account_management/manage_user_accounts/EditProfile.php" />
+        <option value="$PROJECT_DIR$/accounts.RSAS.net/Account_management/manage_user_accounts/class.User.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RSAS.net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RSAS.net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RSAS.net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RSAS.net" type="462c0819:PsiDirectoryNode" />
+              <item name="accounts.RSAS.net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RSAS.net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RSAS.net" type="462c0819:PsiDirectoryNode" />
+              <item name="accounts.RSAS.net" type="462c0819:PsiDirectoryNode" />
+              <item name="Account_management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RSAS.net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RSAS.net" type="462c0819:PsiDirectoryNode" />
+              <item name="accounts.RSAS.net" type="462c0819:PsiDirectoryNode" />
+              <item name="Account_management" type="462c0819:PsiDirectoryNode" />
+              <item name="manage_user_accounts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../accounts.RSAS.net" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\RSAS.net\images" />
+      <recent name="D:\xampp\htdocs\RSAS.net\info.RSAS.net" />
+      <recent name="D:\xampp\htdocs\RSAS.net\accounts.RSAS.net\Clients Account" />
+      <recent name="D:\xampp\htdocs\RSAS.net\accounts.RSAS.net\Administration" />
+      <recent name="D:\xampp\htdocs\RSAS.net\teachers.RSAS.net" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\RSAS.net\accounts.RSAS.net\Account_management\Logins" />
+      <recent name="D:\xampp\htdocs\RSAS.net\accounts.RSAS.net\Account_management\manage_user_accounts" />
+      <recent name="D:\xampp\htdocs\RSAS.net\accounts.RSAS.net\Account_management" />
+      <recent name="D:\xampp\htdocs\RSAS.net\info.RSAS.net" />
+      <recent name="D:\xampp\htdocs\RSAS.net\forums.RSAS.net" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b507601c-c2da-4c19-b674-38d9875390f7" name="Default" comment="" />
+      <created>1543265244126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543265244126</updated>
+      <workItem from="1543265249912" duration="9955000" />
+      <workItem from="1543276206974" duration="1273000" />
+      <workItem from="1543301678320" duration="656000" />
+      <workItem from="1543305497907" duration="42570000" />
+      <workItem from="1543473881880" duration="45992000" />
+      <workItem from="1543569639303" duration="3978000" />
+      <workItem from="1543830610303" duration="3071000" />
+      <workItem from="1543861177140" duration="2137000" />
+      <workItem from="1543923843421" duration="623000" />
+      <workItem from="1544004848908" duration="21628000" />
+      <workItem from="1544098540841" duration="18561000" />
+      <workItem from="1544350672614" duration="20999000" />
+      <workItem from="1544428068500" duration="9915000" />
+      <workItem from="1544619791814" duration="3283000" />
+      <workItem from="1545375873420" duration="1354000" />
+      <workItem from="1545516506293" duration="648000" />
+      <workItem from="1545841923203" duration="810000" />
+      <workItem from="1547111792353" duration="9623000" />
+      <workItem from="1547290576143" duration="1332000" />
+      <workItem from="1547491363344" duration="841000" />
+      <workItem from="1547544379420" duration="1972000" />
+      <workItem from="1547624254099" duration="1252000" />
+      <workItem from="1547664952405" duration="12580000" />
+      <workItem from="1547706504302" duration="9458000" />
+      <workItem from="1547850919010" duration="372000" />
+      <workItem from="1547910046287" duration="16672000" />
+      <workItem from="1547974439639" duration="1733000" />
+      <workItem from="1547976224207" duration="21906000" />
+      <workItem from="1548500295145" duration="17204000" />
+      <workItem from="1548587143541" duration="5469000" />
+      <workItem from="1548686122113" duration="29164000" />
+      <workItem from="1548852517280" duration="12406000" />
+      <workItem from="1549383813448" duration="20327000" />
+      <workItem from="1549618926575" duration="19508000" />
+      <workItem from="1549708911268" duration="17902000" />
+      <workItem from="1549907771497" duration="4064000" />
+      <workItem from="1549994034242" duration="11253000" />
+      <workItem from="1550081206128" duration="3817000" />
+      <workItem from="1550142731028" duration="9421000" />
+      <workItem from="1551594047372" duration="9686000" />
+      <workItem from="1551635992869" duration="3817000" />
+      <workItem from="1551687484823" duration="1187000" />
+      <workItem from="1551788013564" duration="7120000" />
+      <workItem from="1552039511552" duration="6833000" />
+      <workItem from="1552118287653" duration="2126000" />
+      <workItem from="1552373820223" duration="6579000" />
+      <workItem from="1552587646174" duration="23052000" />
+      <workItem from="1552719788396" duration="2549000" />
+      <workItem from="1552739749792" duration="17824000" />
+      <workItem from="1552847656892" duration="217000" />
+      <workItem from="1552899315433" duration="9829000" />
+      <workItem from="1553001220977" duration="8063000" />
+      <workItem from="1553059179174" duration="6232000" />
+      <workItem from="1553107094107" duration="6632000" />
+      <workItem from="1553207803416" duration="1906000" />
+      <workItem from="1553238660608" duration="32335000" />
+      <workItem from="1553324493856" duration="22076000" />
+      <workItem from="1553412199747" duration="20392000" />
+      <workItem from="1553512291705" duration="25865000" />
+      <workItem from="1553581182309" duration="25279000" />
+      <workItem from="1553683173653" duration="29417000" />
+      <workItem from="1553752292940" duration="3588000" />
+      <workItem from="1553785838940" duration="5577000" />
+      <workItem from="1553843600838" duration="6689000" />
+      <workItem from="1553853280264" duration="2411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="703819000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21709532" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.32872504" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Database_connection.php" />
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Account_management/manage_user_accounts/Database_connection.php" />
+    <entry file="file://$PROJECT_DIR$/profile_pictures/@abnetK.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../accounts.RSAS.net/css/add_department.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Activities.RSAS.net/course_and_forum/class_chat/course_request_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/First_Academics/Academy_display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="104" column="30" lean-forward="true" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="30" />
+          <folding>
+            <element signature="n#EditProfile#0;n#AcademyDisplay#0;n#!!top" />
+            <element signature="n#addDepartment#0;n#AcademyDisplay#0;n#!!top" />
+            <element signature="n#addTeachers#0;n#AcademyDisplay#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/search.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/shared_files.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/share.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/settings_small.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/rsas.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/user_pic.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/edit.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/book_far.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Animal-HD-wallpaper-1920x1080-46.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/rsas.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start_sesstion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip_checker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="59" column="27" lean-forward="true" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info.RSAS.net/PageCreator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="107" selection-start-line="29" selection-start-column="107" selection-end-line="29" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header1.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info.RSAS.net/Database_connection.php" />
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Administration/Account/admindisplay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info.RSAS.net/request_management.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="77" column="25" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+          <folding>
+            <element signature="e#98#779#0#PHP" />
+            <element signature="e#781#1340#0#PHP" />
+            <element signature="e#1342#2101#0#PHP" />
+            <element signature="e#2103#4469#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="83" column="16" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Administration/Account/for_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Administration/Account/class.Administrator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="n#__construct#0;n#Administrator#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/First_Academics/AcademicOffice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="n#RegisterDepartment#0;n#AcademicOffice#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Student/check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <element signature="e#53#1762#0#PHP" />
+            <element signature="e#1350#1762#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Administration/Jobs/ManageMessages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="n#ViewMessage#0;n#ManageMessages#0;n#!!top" />
+            <element signature="n#readFeedback#0;n#ManageMessages#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/First_Academics/Department.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="n#registerTeacher#0;n#Department#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/First_Academics/request_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+          <folding>
+            <element signature="e#348#485#0#PHP" />
+            <element signature="e#562#943#0#PHP" />
+            <element signature="e#1023#1129#0#PHP" />
+            <element signature="e#1275#1699#0#PHP" />
+            <element signature="e#1835#2265#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Student/dinamic_page_creator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="98" column="1" lean-forward="true" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
+          <folding>
+            <element signature="n#ChatPage#0;n#Creator#0;n#!!top" />
+            <element signature="n#AttendingPage#0;n#Creator#0;n#!!top" />
+            <element signature="n#ShareDocs#0;n#Creator#0;n#!!top" />
+            <element signature="n#EditProfile#0;n#Creator#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Student/user_page_control.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="n#__construct#0;n#UserDisplay#0;n#!!top" />
+            <element signature="n#title#0;n#UserDisplay#0;n#!!top" />
+            <element signature="n#getFullName#0;n#UserDisplay#0;n#!!top" />
+            <element signature="n#printFullName#0;n#UserDisplay#0;n#!!top" />
+            <element signature="n#getUsername#0;n#UserDisplay#0;n#!!top" />
+            <element signature="n#printUsername#0;n#UserDisplay#0;n#!!top" />
+            <element signature="n#UserPicture#0;n#UserDisplay#0;n#!!top" />
+            <element signature="n#getPicture#0;n#UserDisplay#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Teachers/Teacher.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Teachers/teacher_request_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <element signature="e#195#542#0#PHP" />
+            <element signature="e#638#776#0#PHP" />
+            <element signature="e#856#963#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Teachers/Teacher_display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="87" column="14" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
+          <folding>
+            <element signature="n#__construct#0;n#Teacher_display#0;n#!!top" />
+            <element signature="n#UserPicture#0;n#Teacher_display#0;n#!!top" />
+            <element signature="n#getPicture#0;n#Teacher_display#0;n#!!top" />
+            <element signature="n#ShareDocs#0;n#Teacher_display#0;n#!!top" />
+            <element signature="n#EditProfile#0;n#Teacher_display#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Teachers/CourseAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info.RSAS.net/messaging.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Account_management/Logins/forgotepass_request_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Student/Student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Account_management/Logins/class.login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Account_management/Logins/login_request_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Clients Account/Student/rquest_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+          <folding>
+            <element signature="e#332#475#0#PHP" />
+            <element signature="e#477#580#0#PHP" />
+            <element signature="e#582#836#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Account_management/manage_user_accounts/class.User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="30" column="54" lean-forward="true" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
+          <folding>
+            <element signature="n#__construct#0;n#User#0;n#!!top" />
+            <element signature="n#ViewProfile#0;n#User#0;n#!!top" />
+            <element signature="n#WritePost#0;n#User#0;n#!!top" />
+            <element signature="n#ShareDocuments#0;n#User#0;n#!!top" />
+            <element signature="n#searchUsers#0;n#User#0;n#!!top" />
+            <element signature="n#searchEmail#0;n#User#0;n#!!top" />
+            <marker date="1553854283795" expanded="true" signature="1611:1655" ph="select count... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Account_management/manage_user_accounts/EditProfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <element signature="n#ChangeName#0;n#EditProfile#0;n#!!top" />
+            <element signature="n#changePassword#0;n#EditProfile#0;n#!!top" />
+            <element signature="n#ChangeProfilePicture#0;n#EditProfile#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Administration/Jobs/admin_jb_request_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts.RSAS.net/Account_management/manage_user_accounts/account_request_manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="e#1876#2210#0#PHP" />
+            <element signature="e#2223#2705#0#PHP" />
+            <element signature="e#2760#3014#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

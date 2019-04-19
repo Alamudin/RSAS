@@ -1,0 +1,435 @@
+body{
+    background: #2e1400;
+}
+
+.container{
+    width: 1400px;
+    height: auto;
+    position: relative;
+    left: 50px;
+}
+
+/* for the header */
+header{
+    width: 100%;
+    height: 150px;
+    position: relative;
+}
+#heading{
+    color: #a1996e;
+    font-family: Impact;
+    font-size: 20px;
+    font-weight: lighter;
+    mso-line-spacing: none;
+    position: absolute;
+    left: 5px;
+    top: 0;
+}
+#heading b{
+    font-family: Impact;
+    font-size: 90px;
+    font-weight: bolder;
+    mso-line-spacing: none;
+}
+#av{
+    color: #a1996e;
+    font-family: Arial;
+    font-weight: lighter;
+    font-size: 13px;
+    mso-line-spacing: none;
+    position: absolute;
+    left: 5px;
+    top: 70%;
+}
+#search_form{
+    background: white;
+    opacity: 0.7;
+    color: #a1996e;
+    width: 30%;
+    height: 50px;
+    border: 2px solid #a1996e;
+    border-radius: 5px;
+    position: absolute;
+    left: 60%;
+    top: 10%;
+}
+#fields{
+    background: none;
+    color: #a1996e;
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: Arial;
+    width: 85%;
+    height: 100%;
+    border: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#submit{
+    background: none;
+    width: 15%;
+    height: 100%;
+    border: none;
+    position: absolute;
+    left: 85%;
+    top: 0;
+}
+
+/* end of the header */
+
+/* for about us page
+#about_us_title{
+    background: green;
+    color: white;
+    font-size: 40px;
+    font-family: Dialog;
+    font-weight: bold;
+    width: 100%;
+    height: 70px;
+    position: relative;
+} */
+/* end of about us page */
+
+/* for the navigation menu */
+.menu{
+    background: #441c00;
+    color: #a1996e;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    position: relative;
+}
+.menu_items{
+    background: none;
+    color: #a1996e;
+    font-size: 13px;
+    font-weight: lighter;
+    font-family: Arial;
+    width: 100px;
+    height: 100%;
+    border: none;
+    text-align: center;
+    position: relative;
+}
+.menu_items:hover{
+    background: #572000;
+    border-bottom: 5px solid #a1996e;
+    font-weight: normal;
+}
+/* end of menu background: #e1dbc0; */
+
+/* for the contact us */
+
+#contact_us{
+    width: 70%;
+    height: auto;
+    float: left;
+    position: relative;
+    left: 15%;
+}
+.contact_us_title{
+    background: #441c00;
+    color: #a1996e;
+    width: 100%;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: "Arial Rounded MT Bold";
+    text-align: center;
+    position: relative;
+}
+
+.contact_us_response{
+    background: #441c00;
+    color: #a1996e;
+    width: 90%;
+    font-weight: normal;
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    position: relative;
+}
+.contact_us_info{
+    color: #a1996e;
+    width: 90%;
+    height: auto;
+    position: relative;
+    left: 5%;
+}
+.contact_us_text{
+    font-size: 30px;
+    font-family: Calibri;
+    font-weight: lighter;
+    width: 95%;
+    height: auto;
+    position: relative;
+    left: 2.5%;
+}
+#contact_us_form{
+    width: 90%;
+    height: auto;
+    position: relative;
+    left: 5%;
+}
+.contact_us_fields{
+    opacity: 0.7;
+    width: 80%;
+    height: 60px;
+    font-size: 25px;
+    font-weight: normal;
+    font-family: Arial, Calibri;
+    border: 2px solid #a1996e;
+    border-radius: 5px;
+    position:relative;
+}
+.contact_us_fields:focus{
+    opacity: 1;
+    border: 3px solid #a1996e;
+}
+#email_body{
+    opacity: 0.7;
+    font-size: 20px;
+    font-family: Calibri;
+    width: 80%;
+    height: 200px;
+    border: 2px solid #cbcbcb;
+    border-radius: 5px;
+    position: relative;
+}
+#email_body:focus{
+    opacity: 1;
+    border: 3px solid #a1996e;
+}
+#send_mail{
+    background: #441c00;
+    color: #a1996e;
+    font-size: 35px;
+    width: 15%;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+}
+#send_mail:hover{
+    background: #551f00;
+    cursor: pointer;
+}
+
+/* end of contact us */
+/* for the privacy page */
+
+#privacy{
+    width: 70%;
+    height: auto;
+    float: left;
+    position: relative;
+    left: 15%;
+}
+#privacy_title{
+    background: #441c00;
+    color: #a1996e;
+    width: 100%;
+    height: 70px;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: "Arial Rounded MT Bold";
+    text-align: center;
+    position: relative;
+}
+#privacy_container {
+    background: white;
+    opacity: 0.7;
+    color: #a1996e;
+    width: 98%;
+    height: 400px;
+    position: relative;
+    left: 1%;
+}
+#privacy_policy_text{
+    color: #a1996e;
+    font-size: 25px;
+    font-weight: lighter;
+    font-family: Arial, Calibri;
+    width: 98%;
+    height: auto;
+    text-align: left;
+    position: relative;
+    left: 1%;
+}
+
+/* end of privacy page */
+
+.inner_container{
+    width: 100%;
+    height: auto;
+    min-height: 250px;
+    position: relative;
+}
+/* for the footer */
+
+footer{
+    background: #2e1400;
+    color: #a1996e;
+    width: 100%;
+    height: 300px;
+    clear: both;
+    position: relative;
+}
+.footer_info{
+    background: none;
+    color: #a1996e;
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: Arial;
+    width: 25%;
+    height: 75%;
+    border-left: 1px solid #a1996e;
+    float: right;
+    text-align: left;
+    position: relative;
+}
+#copy_right{
+    color: #a1996e;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: lighter;
+    clear: both;
+    text-align: center;
+    position: relative;
+}
+
+/* end of the footer */
+
+@media screen and (max-width: 720px){
+    .container{
+        width: 680px;
+        position: relative;
+        left: 0;
+    }
+    /* for the menu */
+    .menu{
+        width: 100%;
+        float: none;
+        position: relative;
+    }
+    .item_image{
+        width: 35px;
+        height: 35px;
+    }
+    .menu_items{
+        font-size: 20px;
+        font-weight: normal;
+        width: auto;
+        height: 100%;
+        position: relative;
+    }
+    .menu_items:hover{
+        border: black;
+    }
+    /* end of menu */
+
+    /* search form */
+
+    #search_form{
+        width: 50%;
+        height: 80px;
+        border-radius: 10px;
+        position: absolute;
+        left: 40%;
+    }
+
+
+    #submit{
+        width: 20%;
+        position: relative;
+        left: 80%;
+    }
+
+    #fields{
+        font-family: sans-serif;
+        font-weight: normal;
+        font-size: 40px;
+        border: none;
+        height: 100%;
+        width: 80%;
+    }
+
+
+    /* end of search form*/
+
+    /* for the contact us page */
+
+    #contact_us{
+        width: 90%;
+        position: relative;
+        left: 5%;
+    }
+    .contact_us_fields{
+        background: none;
+        color: white;
+        font-size: 35px;
+        border: none;
+        border-radius: 0;
+        width: 100%;
+        height: 70px;
+    }
+    .contact_us_fields:focus{
+        border: none;
+        border-bottom: 3px solid white;
+    }
+    #email_body{
+        background: none;
+        color: white;
+        font-size: 30px;
+        width: 100%;
+    }
+    #send_mail{
+        width: 20%;
+    }
+    .contact_us_text{
+        font-weight: normal;
+    }
+
+    /* end of contact us page */
+
+    /* for the privacy page */
+
+    #privacy{
+        width: 90%;
+        position: relative;
+        left: 5%;
+    }
+    #privacy_policy_text{
+        font-weight: normal;
+        font-size: 30px;
+    }
+
+    /* end of privacy page */
+
+    /* for the footer */
+
+    footer{
+        height: auto;
+        text-align: center;
+    }
+    .footer_info{
+        width: 90%;
+        font-size: 35px;
+        float: none;
+        border-left: none;
+        border-bottom: 2px solid white;
+        position: relative;
+        left: 5%;
+    }
+    footer li{
+        font-size: 30px;
+    }
+    #copy_right{
+        font-size: 30px;
+    }
+
+    /* end of footer */
+}

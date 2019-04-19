@@ -1,0 +1,172 @@
+#share_page{
+    background: #eeeeee;
+    width: 80%;
+    height: auto;
+    float: left;
+    text-align: center;
+    position: relative;
+    left: 2%;
+}
+.shared_page_uploader{
+    width: 80%;
+    height: auto;
+    text-align: center;
+    position: relative;
+    left: 10%;
+}
+.shared_page_uploader form{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    position: relative;
+}
+.shared_input{
+    color: black;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: normal;
+    width: 70%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+}
+.shared_text_area{
+    font-size: 25px;
+    font-weight: normal;
+    font-family: Arial;
+    width: 70%;
+    height: 100px;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+}
+#shared_submit{
+    background: #2362c3;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Calibri;
+    width: 15%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    align-self: left;
+    position: relative;
+}
+#shared_submit:hover{
+    background: #196dbf;
+}
+#shared_horizontal{
+    width: 70%;
+}
+#shared_files_before{
+    width: 80%;
+    height: auto;
+    text-align: center;
+    position: relative;
+    left: 10%;
+}
+.shared_before_title{
+    color: #454545;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: "Harlow Solid Italic";
+    text-align: center;
+    position: relative;
+}
+.shared_before{
+    width: 90%;
+    height: auto;
+    border: 1px solid #9f9f9f;
+    border-radius: 10px;
+    position: relative;
+    left: 5%;
+}
+.shared_before img{
+    width: 15%;
+    height: auto;
+    float: left;
+    position: relative;
+    left: 2%;
+    top: 5px;
+}
+.shared_before_description{
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: Calibri;
+    width: 65%;
+    height: auto;
+    float: left;
+    text-align: left;
+    position: relative;
+    left: 3%;
+}
+.shared_statistics{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: monospace;
+    width: auto;
+    text-align: center;
+    clear: both;
+    position: relative;
+    top: 10px;
+}
+
+@media screen and (max-width: 720px) {
+    #share_page{
+        width: 100%;
+        position: relative;
+        left: 0;
+    }
+    .shared_page_uploader{
+        width: 100%;
+        position: relative;
+        left: 0;
+    }
+    .shared_page_uploader form{
+        width: 100%;
+        height: auto;
+        text-align: center;
+        position: relative;
+    }
+    .shared_input{
+        font-size: 30px;
+        height: 60px;
+    }
+    .shared_text_area{
+        font-size: 35px;
+        height: 150px;
+    }
+    #shared_submit{
+        font-size: 30px;
+        width: 25%;
+        height: 60px;
+    }
+    #shared_files_before{
+        width: 90%;
+        height: auto;
+        text-align: center;
+        position: relative;
+        left: 5%;
+    }
+    .shared_before{
+        width: 100%;
+        position: relative;
+        left: 0;
+    }
+    .shared_before img{
+        width: 18%;
+        height: auto;
+        float: left;
+        position: relative;
+        left: 2%;
+        top: 5px;
+    }
+    .shared_before_description{
+        font-size: 25px;
+        font-weight: normal;
+        width: 70%;
+    }
+}

@@ -1,0 +1,205 @@
+#chat_page{
+    background: #eaeaea;
+    width: 80%;
+    height: auto;
+    float: left;
+    position: relative;
+    left: 4%;
+}
+#older_msg{
+    background: none;
+    color: blue;
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: bold;
+    width: auto;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    align-self: left;
+    position: relative;
+}
+#older_msg:hover{
+    background: #a0a0a0;
+    border-radius: 5px;
+}
+.under_right{
+    background: #184f97;
+    color: white;
+    width: 100%;
+    height: 80px;
+    position: relative;
+}
+.under_right img{
+    width: 90px;
+    height: 100%;
+    position: absolute;
+    left: 3%;
+    top: 0;
+}
+#user_name{
+    color: white;
+    font-size: 30px;
+    font-family: Arial;
+    font-weight: bold;
+    position: absolute;
+    left: 20%;
+    top: 0;
+}
+.chats{
+    width: 90%;
+    height: auto;
+    text-align: left;
+    border-bottom: 2px solid #848484;
+    position: relative;
+    left: 5%;
+}
+.under_q{
+    width: 100%;
+    height: 40px;
+    position: relative;
+}
+.under_q img{
+    width: 50px;
+    height: 100%;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.user_name{
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    left: 10%;
+    top: -15px;
+}
+.question{
+    color: black;
+    font-family: Calibri;
+    font-size: 13px;
+    font-weight: lighter;
+    text-align: left;
+    position: relative;
+    left: 1%;
+}
+.answer{
+    color: blue;
+    font-family: Arial;
+    font-size: 10px;
+    font-weight: bold;
+}
+.new_message{
+    width: 60%;
+    height: 100px;
+    text-align: left;
+    position: relative;
+}
+#message{
+    font-size: 20px;
+    font-weight: lighter;
+    width: 80%;
+    height: 100px;
+    float: left;
+    position: relative;
+}
+#send{
+    background: #184f97;
+    color: white;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 20px;
+    width: 15%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    float: left;
+    position: relative;
+    left: 2%;
+}
+#send:hover{
+    background: #1871bc;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 720px){
+    #chat_page{
+        width: 100%;
+        position: relative;
+        left: 0;
+    }
+    .under_right{
+        height: 80px;
+    }
+    .under_right img{
+        width: 90px;
+        position: absolute;
+        left: 3%;
+        top: 0;
+    }
+    #user_name{
+        font-size: 30px;
+        font-weight: bold;
+        position: absolute;
+        left: 20%;
+        top: 0;
+    }
+    .under_q{
+        width: 100%;
+        height: 70px;
+        position: relative;
+    }
+    .under_q img{
+        width: 70px;
+        height: 100%;
+        border-radius: 50%;
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+    .user_name{
+        font-family: Calibri;
+        font-size: 25px;
+        font-weight: bold;
+        position: absolute;
+        left: 15%;
+    }
+    .question{
+        color: black;
+        font-family: Calibri;
+        font-size: 25px;
+        font-weight: lighter;
+        text-align: left;
+        position: relative;
+        left: 1%;
+    }
+    .answer{
+        color: blue;
+        font-family: Arial;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .new_message{
+        width: 90%;
+        height: auto;
+        position: relative;
+        left: 5%;
+    }
+    #message{
+        height: 150px;
+        font-size: 25px;
+        float: none;
+    }
+    #send{
+        width: 30%;
+        height: 70px;
+        font-size: 30px;
+        font-weight: bolder;
+        border-radius: 10px;
+        float: none;
+        position: relative;
+        top: 10px;
+        left: 0;
+    }
+}

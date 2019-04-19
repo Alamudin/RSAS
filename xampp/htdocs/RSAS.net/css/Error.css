@@ -1,0 +1,89 @@
+body{
+    background: #eeeeee;
+}
+
+.container{
+    width: 1400px;
+    height: auto;
+    position: relative;
+    left: 50px;
+}
+
+.header{
+    background: #004376;
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.site_name{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 60px;
+    margin-left: 30px;
+    position: relative;
+}
+
+.error_header_container{
+    background: #d0d0d0;
+    width: 95%;
+    height: 400px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+    border-radius: 15px;
+    position: relative;
+    left: 5%;
+}
+
+.error_header{
+    color: black;
+    width: 90%;
+    height: auto;
+    position: relative;
+    left: 5%;
+    top: 50px;
+}
+
+.error_name{
+    color: red;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    width: 90%;
+    height: auto;
+    margin-bottom: 60px;
+    position: relative;
+    left: 5%;
+    top: 20px;
+}
+
+.error_description{
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+    width: 85%;
+    height: auto;
+    margin-bottom: 30px;
+    position: relative;
+    left: 10%;
+}
+
+.error_solution{
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+
+.solution{
+    color: blue;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 40px;
+    width: 95%;
+    height: auto;
+    position: relative;
+    left: 5%;
+}

@@ -1,0 +1,252 @@
+body{
+    background: #d7d7d7;
+    text-align: center;
+}
+.container{
+    background: white;
+    width: 1400px;
+    text-align: center;
+    position: relative;
+    left: 50px;
+}
+
+
+.questions{
+    width: 70%;
+    height: auto;
+    text-align: left;
+    border: 1px solid #848484;
+    border-radius: 7px;
+    position: relative;
+    left: 15%;
+}
+.answers{
+    width: 70%;
+    height: auto;
+    text-align: left;
+    border: 2px solid #848484;
+    border-radius: 7px;
+    position: relative;
+    left: 15%;
+}
+.under_q{
+    background: #a8a8a8;
+    color: black;
+    width: 100%;
+    height: 50px;
+    position: relative;
+}
+.under_a{
+    background: #2680fc;
+    color: black;
+    width: 100%;
+    height: 50px;
+    position: relative;
+}
+.under_q img{
+    width: 50px;
+    height: 100%;
+  /*border-radius: 50%;*/
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.under_a img{
+    width: 50px;
+    height: 100%;
+  /*border-radius: 50%;*/
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.user_name{
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    left: 10%;
+    top: -15px;
+}
+.answering{
+    color: black;
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: left;
+    position: relative;
+    left: 5%;
+}
+.question{
+    color: black;
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: left;
+    position: relative;
+    left: 5%;
+}
+.narration{
+    color: blue;
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    width: auto;
+    position: relative;
+}
+#left{
+    width: 70%;
+    height: auto;
+    text-align: left;
+    float: left;
+    position: relative;
+}
+.under_left{
+    width: 90%;
+    height: 40px;
+    background: #7c7c7c;
+    color: black;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+    left: 5%;
+}
+#right{
+    background: #7c7c7c;
+    width: 30%;
+    height: auto;
+    float: left;
+    position: relative;
+}
+#add_answer{
+    width: 60%;
+    height: auto;
+    position: relative;
+    left: 15%;
+}
+#answer{
+    font-family: DialogInput;
+    font-size: 20px;
+    font-weight: lighter;
+    width: 100%;
+    height: 200px;
+    border: 2px solid #c1c1c1;
+    align-self: left;
+    position: relative;
+}
+#answer:hover{
+    border: 2px solid #195ca8;
+}
+#post_answer{
+    background: #2b51bf;
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: Arial;
+    width: 25%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    align-self: left;
+    position: relative;
+}
+#post_answer:hover{
+    background: #288cff;
+}
+
+
+@media screen and (max-width: 720px){
+    .container{
+        width: 680px;
+    }
+
+
+    #left{
+        width: 100%;
+        position: relative;
+    }
+    .under_q{
+        width: 100%;
+        height: 70px;
+        position: relative;
+    }
+    .under_a{
+        width: 100%;
+        height: 70px;
+        position: relative;
+    }
+    .under_q img{
+        width: 70px;
+        height: 100%;
+        border-radius: 50%;
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+    .under_a img{
+        width: 70px;
+        height: 100%;
+        border-radius: 50%;
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+    .user_name{
+        font-family: Calibri;
+        font-size: 25px;
+        font-weight: bold;
+        position: absolute;
+        left: 15%;
+    }
+    .questions{
+        width: 90%;
+        position: relative;
+        left: 5%;
+    }
+    .question{
+        color: black;
+        font-size: 30px;
+        font-weight: lighter;
+        text-align: left;
+        position: relative;
+        left: 1%;
+    }
+    .answers{
+        width: 90%;
+        position: relative;
+        left: 5%;
+    }
+    #add_answer{
+        width: 90%;
+        position: relative;
+        left: 5%;
+    }
+    #post_answer{
+        height: 60px;
+        font-size: 40px;
+    }
+    #answer{
+        font-size: 40px;
+    }
+    .answer{
+        font-family: Arial;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .answering{
+        font-size: 30px;
+    }
+    .narration{
+        font-size: 20px;
+        font-weight: bold;
+        position: relative;
+    }
+    #right{
+        width: 100%;
+        height: 250px;
+        position: relative;
+    }
+}

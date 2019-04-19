@@ -1,0 +1,47 @@
+.team_container{
+    background: #441c00;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 10px;
+    position: relative;
+}
+
+.team-inner-container{
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    position: relative;
+}
+
+.member-container{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    border-bottom: 3px solid white;
+    margin-bottom: 5px;
+    position: relative;
+}
+
+.member-image{
+    width: 20%;
+    height: auto;
+    margin: 10px;
+    float: left;
+    position: relative;
+}
+
+.about-member{
+    color: white;
+    width: 65%;
+    height: auto;
+    margin: 5px;
+    position: relative;
+}
+
+@media screen and (max-width: 720px){
+    .team_container{
+        width: 100%;
+        margin-left: 0;
+    }
+}
+

@@ -1,0 +1,218 @@
+body{
+    text-align: center;
+
+}
+.container{
+    background: #d7d7d7;
+    width: 1400px;
+    text-align: center;
+    position: relative;
+    left: 50px;
+}
+
+.questions{
+    width: 90%;
+    height: auto;
+    text-align: left;
+    border-bottom: 2px solid #848484;
+    float: left;
+    position: relative;
+    left: 5%;
+}
+.under_q{
+    width: 100%;
+    height: 40px;
+    position: relative;
+}
+.under_q img{
+    width: 50px;
+    height: 100%;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.user_name{
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    left: 10%;
+    top: -15px;
+}
+.question{
+    color: black;
+    font-family: Calibri;
+    font-size: 13px;
+    font-weight: lighter;
+    text-align: left;
+    position: relative;
+    left: 1%;
+}
+.answer{
+    color: blue;
+    font-family: Arial;
+    font-size: 10px;
+    font-weight: bold;
+}
+#left{
+    width: 70%;
+    height: auto;
+    text-align: left;
+    float: left;
+    position: relative;
+}
+.under_left{
+    width: 100%;
+    height: 30px;
+    background: #7b7b7b;
+    color: black;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+}
+#right{
+    background: #7b7b7b;
+    width: 30%;
+    height: auto;
+    float: left;
+    position: relative;
+}
+footer{
+    background: #2e1400;
+    color: white;
+    width: 100%;
+    height: 300px;
+    clear: both;
+    position: relative;
+}
+.footer_info{
+    background: none;
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: Arial;
+    width: 25%;
+    height: 75%;
+    border-left: 1px solid white;
+    float: right;
+    text-align: left;
+    position: relative;
+}
+#copy_right{
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: lighter;
+    clear: both;
+    text-align: center;
+    position: relative;
+}
+
+@media screen and (max-width: 720px){
+    .container{
+        width: 680px;
+    }
+    header{
+        width: 100%;
+        height: 300px;
+    }
+    #av{
+        font-size: 30px;
+        position: absolute;
+        top: 28%;
+    }
+    #search_form{
+        width: 60%;
+        position: absolute;
+        left: 35%;
+        top: 60%;
+    }
+    .fields{
+        font-weight: bold;
+    }
+    nav{
+        width: 100%;
+        height: 20%;
+        text-align: left;
+        position: absolute;
+        left: 0;
+        top: 80%;
+    }
+    .nav_btn{
+        background: none;
+        color: white;
+        font-family: Arial;
+        font-size: 20px;
+        font-weight: lighter;
+        width: 25%;
+        height: 100%;
+        border: none;
+        position: relative;
+    }
+    #left{
+        width: 100%;
+        position: relative;
+    }
+    .under_q{
+        width: 100%;
+        height: 70px;
+        position: relative;
+    }
+    .under_q img{
+        width: 70px;
+        height: 100%;
+        border-radius: 50%;
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+    .user_name{
+        font-family: Calibri;
+        font-size: 25px;
+        font-weight: bold;
+        position: absolute;
+        left: 15%;
+    }
+    .question{
+        color: black;
+        font-family: Calibri;
+        font-size: 25px;
+        font-weight: lighter;
+        text-align: left;
+        position: relative;
+        left: 1%;
+    }
+    .answer{
+        color: blue;
+        font-family: Arial;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    #right{
+        width: 100%;
+        height: 250px;
+        position: relative;
+    }
+
+    footer{
+        height: auto;
+        text-align: center;
+    }
+    .footer_info{
+        width: 90%;
+        font-size: 35px;
+        float: none;
+        border-left: none;
+        border-bottom: 2px solid white;
+        position: relative;
+        left: 5%;
+    }
+    li{
+        font-size: 30px;
+    }
+    #copy_right{
+        font-size: 30px;
+    }
+}

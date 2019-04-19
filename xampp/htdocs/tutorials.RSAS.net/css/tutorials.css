@@ -1,0 +1,269 @@
+body{
+    background: #2f1000;
+}
+
+#container{
+    width: 1400px;
+    height: auto;
+    align-self: center;
+    position: relative;
+    left: 50px;
+}
+
+#heading{
+    color: #a1996e;
+}
+#av{
+    color: #a1996e;
+}
+
+
+#left{
+    background: #3b1b00;
+    color: #a1996e;
+    width: 65%;
+    height: auto;
+    float: left;
+    text-align: center;
+    position: relative;
+}
+#main_video_title{
+    color: #a1996e;
+    font-size: 30px;
+    font-family: Arial;
+    font-weight: normal;
+    align-self: center;
+    position: relative;
+}
+#video_container{
+    background: black;
+    color: white;
+    width: 98%;
+    height: 450px;
+    position: relative;
+    left: 1%;
+}
+#main_video{
+    color: white;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#video_cover{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#video_info{
+    color: #a1996e;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: lighter;
+    width: 98%;
+    height: auto;
+    text-align: left;
+    position: relative;
+    left: 1%;
+}
+#left hr{
+    width: 98%;
+    color: #a1996e;
+}
+#comment_section{
+    width: 98%;
+    height: auto;
+    position: relative;
+    left: 1%;
+}
+.comments{
+    color: #a1996e;
+    width: 100%;
+    height: auto;
+    align-self: center;
+    text-align: left;
+    position: relative;
+}
+.comments b{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial;
+    position: relative;
+    left: 5%;
+}
+.comments img{
+    width: 5%;
+    height: 40px;
+    border-radius: 50%;
+    position: relative;
+    left: 2%;
+}
+.main_comment{
+    color: #a1996e;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: Arial;
+    width: 90%;
+    height: auto;
+    position: relative;
+    left: 5%;
+}
+.narrator{
+    font-family: monospace;
+    color: #a1996e;
+    position: relative;
+    left: 5%;
+}
+
+#right_sidebar{
+    width: 35%;
+    height: auto;
+    float: left;
+    position: relative;
+}
+.advert{
+    width: 98%;
+    height: 250px;
+    position: relative;
+    left: 1%;
+}
+#related_title{
+    background: #571e00;
+    color: #a1996e;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Arial;
+    width: 98%;
+    height: 50px;
+    border-radius: 7px;
+    text-align: center;
+    position: relative;
+    left: 1%;
+}
+.related{
+    background: #571e00;
+    color: #a1996e;
+    width: 98%;
+    height: 150px;
+    border-radius: 10px;
+    position: relative;
+    left: 1%;
+}
+.video_poster{
+    width: 40%;
+    height: 90%;
+    float: left;
+    position: relative;
+    left: 1%;
+    top: 5%;
+}
+.video_info_mini{
+    width: 58%;
+    height: 100%;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    float: left;
+    position: relative;
+    left: 2%;
+}
+.video_title_mini{
+    color: #a1996e;
+    width: 95%;
+    height: auto;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial;
+    text-wrap: normal;
+}
+.narration{
+    color: #a1996e;;
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: Calibri;
+}
+
+/**
+for navigation bar
+ */
+
+.navigation{
+    background: #3b1b00;
+    display: inline-block;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.nav_buttons{
+    background: none;
+    color: #a1996e;
+    font-size: 20px;
+    font-weight: normal;
+    width: 100px;
+    height: 100%;
+    border: none;
+    float: left;
+    position: relative;
+}
+
+.nav_buttons:hover{
+    background: #571e00;
+}
+
+
+/**
+end of nevigation bar
+ */
+
+@media screen and (max-width: 720px){
+    #container{
+        width: 680px;
+        position: relative;
+        left: 0;
+    }
+
+    #left{
+        width: 100%;
+    }
+    #video_container{
+        height: 390px;
+    }
+    #video_info{
+        font-weight: normal;
+        font-size: 25px;
+    }
+    .comments img{
+        width: 9%;
+        height: 55px;
+    }
+    .main_comment{
+        font-size: 25px;
+    }
+    .narrator{
+        font-size: 20px;
+    }
+    #right_sidebar{
+        width: 100%;
+    }
+    .advert{
+        height: 400px;
+    }
+    .video_poster{
+        width: 35%;
+    }
+    .video_info_mini{
+        width: 63%;
+    }
+    .video_title_mini{
+        font-size: 25px;
+        height: auto;
+    }
+    .narration{
+        font-size: 20px;
+        font-weight: normal;
+    }
+}

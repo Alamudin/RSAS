@@ -1,0 +1,42 @@
+.loading{
+    display: none;
+    background: rgba(0,0,0,0.7);
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+.loading_inner_container{
+    background: #c2beb2;
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+.loading_image{
+    width: 100px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    position: relative;
+}
+
+.loading_message{
+    color: white;
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+@media screen and (max-width: 720px){
+    .loading_inner_container{
+        position: fixed;
+        top: 10%;
+        left: 30%;
+    }
+}

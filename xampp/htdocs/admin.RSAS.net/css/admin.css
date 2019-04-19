@@ -1,0 +1,308 @@
+body{
+    background: rgba(41,41,41,0.85);
+}
+.container{
+    width: 1500px;
+    height: auto;
+}
+header{
+    background: #292929;
+}
+
+#search_form{
+    display: none;
+}
+footer{
+    background: #292929;
+    height: 90px;
+}
+.nav{
+    display: inline-block;
+    background: #292929;
+    color: white;
+    width: 100%;
+    height: 50px;
+    overflow-x: auto;
+    text-align: center;
+    position: relative;
+}
+.nav button{
+    background: #292929;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    width: 15%;
+    height: 100%;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    position: relative;
+}
+.nav button:hover{
+    font-weight: bolder;
+    cursor: pointer;
+}
+.count{
+    background: red;
+    color: white;
+    font-size: 15px;
+    min-width: 15%;
+    height: 50%;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/** inner containers */
+
+.inner_container{
+    width: 80%;
+    height: auto;
+    min-height: 500px;
+    text-align: left;
+    position: relative;
+    left: 10%;
+}
+
+.inner-left{
+    width: 50%;
+    height: auto;
+    float: left;
+    position: relative;
+}
+
+.inner-right{
+    width: 50%;
+    height: auto;
+    float: left;
+    position: relative;
+}
+
+/** end of inner containers */
+
+.feedback{
+    display: inline-block;
+    background: #1a1817;
+    color: white;
+    width: 100%;
+    height: 30px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+    text-align: left;
+    position: relative;
+}
+
+.feedback:hover{
+    height: 32px;
+    background: #131313;
+}
+.seen{
+    color: white;
+    font-family: sans-serif;
+    width: auto;
+    height: auto;
+    float: left;
+    text-align: center;
+    margin: 0;
+    margin-right: 10px;
+    position: relative;
+}
+.sender_add{
+    font-family: sans-serif;
+    font-size: 20px;
+    width: 30%;
+    height: 100%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+}
+.mail_subject{
+    font-family: sans-serif;
+    font-size: 20px;
+    width: 30%;
+    height: 100%;
+    float: left;
+    overflow: hidden;
+    text-align: left;
+    position: relative;
+    left: 1%;
+}
+.mail_narration{
+    font-family: monospace;
+    font-size: 20px;
+    width: 25%;
+    height: 100%;
+    float: right;
+    overflow: hidden;
+    position: relative;
+}
+
+.fd_open{
+    height: 100%;
+    width: 10%;
+    float: left;
+    position: relative;
+}
+
+/** add academy */
+.wider_left_container{
+    background: none;
+    color: white;
+    width: 60%;
+    height: auto;
+    float: left;
+    text-align: center;
+    position: relative;
+}
+
+.field_medium{
+    background: white;
+    color: black;
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: Arial;
+    width: 50%;
+    height: 40px;
+    border: 2px solid #d6d6d6;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    position: relative;
+}
+
+.right_small_side_bar{
+    width: 40%;
+    height: auto;
+    max-height: 400px;
+    overflow: auto;
+    float: left;
+    position: relative;
+}
+
+.small_longbutton_with_image{
+    background: rgba(226,226,226,0.72);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    text-wrap: normal;
+    position: relative;
+}
+.small_longbutton_with_image:hover{
+    background: rgba(226,226,226,1);
+    cursor: pointer;
+}
+
+.left_small_user_image{
+    width: 15%;
+    height: 50px;
+    float: left;
+    position: relative;
+    left: 1%;
+    top: 1%;
+}
+
+.name_bold{
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 25px;
+    width: 60%;
+    float: left;
+    margin-left: 15px;
+    text-align: left;
+    position: relative;
+    left: 1%;
+}
+
+.submit_medium{
+    background: #3438b6;
+    color: white;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    width: 50%;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    position: relative;
+}
+.submit_medium:hover{
+    background: #3f44de;
+    cursor: pointer;
+}
+
+/** end of new academy */
+
+@media screen and (max-width: 720px){
+    .container{
+        width: 680px;
+    }
+    .nav{
+        height: 70px;
+    }
+    .nav button{
+        font-size: 25px;
+        width: 24%;
+        position: relative;
+        left: 0;
+    }
+    .count{
+        min-width: 25%;
+    }
+    #inner_container{
+        width: 90%;
+        position: relative;
+        left: 5%;
+    }
+    .feedback{
+        width: 100%;
+        position: relative;
+        left: 0;
+    }
+    .feedback_header{
+        height: 70px;
+    }
+    .feedback_user_image_mini{
+        width: 12%;
+    }
+    .feedback_text{
+        font-weight: normal;
+        font-size: 25px;
+    }
+
+    /**
+    for the add academy
+     */
+
+    .wider_left_container{
+        width: 100%;
+    }
+
+    .right_small_side_bar{
+        width: 100%;
+    }
+
+    .left_small_user_image{
+        width: 15%;
+        height: 70px;
+        float: left;
+        margin-top: 5px;
+        margin-left: 5px;
+        position: relative;
+    }
+
+    /**
+    end of add academy
+     */
+}

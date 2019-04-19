@@ -1,0 +1,155 @@
+body{
+    background: #2e1400;
+    text-align: center;
+}
+.container{
+    width: 1500px;
+    text-align: center;
+    position: relative;
+}
+#av{
+    color: white;
+    font-family: Arial;
+    font-weight: lighter;
+    font-size: 13px;
+    mso-line-spacing: none;
+    position: absolute;
+    left: 5px;
+    top: 70%;
+}
+.fields{
+    background: white;
+    opacity: 0.7;
+    color: black;
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: Arial;
+    width: 50%;
+    height: 30px;
+    border: 2px solid #d6d6d6;
+    border-radius: 5px;
+    position: relative;
+}
+
+.fields:focus{
+    opacity: 1;
+    border: 3px solid deepskyblue;
+}
+
+.middle_container{
+    background: rgba(255,255,255,0.71);
+    width: 40%;
+    height: auto;
+    border-radius: 10px;
+    position: relative;
+    left: 30%;
+}
+#login_image{
+    border-radius: 50%;
+}
+hr{
+    width: 50%;
+}
+.title{
+    font-size: 30px;
+    font-family: "Arial Rounded MT Bold";
+    font-weight: 800;
+    text-align: center;
+}
+#register{
+    width: 92%;
+    text-align: left;
+    position: relative;
+    left: 4%;
+}
+.register_username_rules{
+    width: 80%;
+    font-size: 17px;
+    font-family: Arial, Calibri, "Lucida Handwriting";
+    font-weight: lighter;
+}
+#login{
+    width: 100%;
+}
+
+.error_msg{
+    background: red;
+    color: white;
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: normal;
+    width: 90%;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 10px;
+    position: relative;
+    left: 5%;
+}
+
+.submit{
+    background: #2e1400;
+    color: white;
+    width: 40%;
+    height: 40px;
+    align-self: center;
+    font-size: 30px;
+    font-weight: normal;
+    font-family: "Arial Rounded MT Bold";
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+    position: relative;
+}
+.submit:hover{
+    background: #3b1b00;
+}
+.bottom_links{
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: lighter;
+    text-decoration: none;
+    color: black;
+    width: auto;
+}
+.bottom_links:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+@media screen and (max-width: 720px){
+    .container{
+        width: 680px;
+    }
+    .fields{
+        width: 70%;
+        font-weight: bold;
+        font-size: 30px;
+        height: 60px;
+    }
+    hr{
+        width: 70%;
+    }
+    #av{
+        font-size: 30px;
+        position: absolute;
+        top: 28%;
+    }
+    .middle_container{
+        width: 100%;
+        position: relative;
+        left: 0;
+    }
+    #login_image{
+        width: 50%;
+        height: 350px;
+    }
+    .title{
+        font-family: Calibri, Impact;
+        font-size: 70px;
+        font-weight: normal;
+    }
+    .bottom_links{
+        font-size: 30px;
+        width: auto;
+    }
+}

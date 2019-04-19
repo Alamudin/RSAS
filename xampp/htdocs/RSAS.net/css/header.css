@@ -1,0 +1,120 @@
+/*for the header*/
+header{
+    background: #3b1b00;
+    width: 100%;
+    height: 150px;
+    position: relative;
+}
+#heading{
+    color: white;
+    font-family: Impact;
+    font-size: 20px;
+    font-weight: lighter;
+    mso-line-spacing: none;
+    position: absolute;
+    left: 5px;
+    top: 0;
+}
+#heading b{
+    font-family: Impact;
+    font-size: 90px;
+    font-weight: bolder;
+    mso-line-spacing: none;
+}
+#av{
+    color: white;
+    font-family: Arial;
+    font-weight: lighter;
+    font-size: 13px;
+    mso-line-spacing: none;
+    position: absolute;
+    left: 5px;
+    top: 70%;
+}
+#search_form{
+    background: rgba(255,255,255,0.47);
+    width: 30%;
+    height: 50px;
+    border-radius: 5px;
+    border: 3px solid #a1996e;
+    position: absolute;
+    left: 60%;
+    top: 10%;
+}
+#search_form:focus{
+    background: white;
+    border: 3px solid deepskyblue;
+}
+#fields{
+    background: none;
+    color: white;
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: Arial;
+    width: 85%;
+    height: 100%;
+    border: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#submit{
+    background: none;
+    width: 15%;
+    height: 100%;
+    border: none;
+    position: absolute;
+    left: 85%;
+    top: 0;
+}
+
+/* end of the header */
+
+
+
+
+@media screen and (max-width: 720px){
+    /* for the header */
+
+    header{
+        width: 100%;
+        height: 300px;
+    }
+    #av{
+        font-size: 30px;
+        position: absolute;
+        top: 28%;
+    }
+    #search_form{
+        width: 60%;
+        position: absolute;
+        left: 35%;
+        top: 60%;
+    }
+    header input{
+        font-weight: bold;
+    }
+    nav{
+        width: 100%;
+        height: 20%;
+        text-align: left;
+        position: absolute;
+        left: 0;
+        top: 80%;
+    }
+    .nav_btn{
+        background: none;
+        color: white;
+        font-family: Arial;
+        font-size: 20px;
+        font-weight: lighter;
+        width: 25%;
+        height: 100%;
+        border: none;
+        position: relative;
+    }
+    /*end of the header*/
+
+
+
+}

@@ -1,0 +1,110 @@
+
+#edit_profile{
+    background: #eeeeee;
+    color: black;
+    width: 84%;
+    height: auto;
+    float: left;
+    text-align: center;
+    position: relative;
+    left: 1%;
+}
+.edit_container{
+    width: 90%;
+    height: auto;
+    text-align: left;
+    position: relative;
+    left: 5%;
+}
+.edit_container form{
+    width: 100%;
+    height: auto;
+    position: relative;
+    left: 0;
+}
+.edit_fields{
+    background: white;
+    color: black;
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: Arial;
+    width: 50%;
+    height: 30px;
+    border: 2px solid #d6d6d6;
+    border-radius: 5px;
+    position: relative;
+}
+.edit_submit{
+    background: #2362c3;
+    color: white;
+    width: 10%;
+    height: 35px;
+    align-self: center;
+    font-size: 25px;
+    font-weight: normal;
+    font-family: "Arial Rounded MT Bold";
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+    position: relative;
+    left: 5%;
+}
+.submit:hover{
+    background: #288cff;
+}
+.edit_small_titles{
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: Calibri;
+    color: #3d3d3d;
+    width: auto;
+    position: relative;
+}
+#edit_horizontal{
+    color: #d6d6d6;
+    width: 90%;
+}
+
+@media screen and (max-width: 720px){
+
+    #edit_profile{
+        width: 100%;
+        position: relative;
+        left: 0;
+    }
+    .edit_container{
+        width: 90%;
+        height: auto;
+        text-align: left;
+        position: relative;
+        left: 5%;
+    }
+    .edit_container form{
+        width: 100%;
+        height: auto;
+        position: relative;
+        left: 0;
+    }
+    .edit_fields{
+        font-size: 40px;
+        font-weight: normal;
+        width: 75%;
+        height: 50px;
+        border-radius: 7px;
+    }
+    .edit_submit{
+        width: 15%;
+        height: 50px;
+        font-size: 30px;
+        position: relative;
+        left: 5%;
+    }
+    .edit_small_titles{
+        font-size: 30px;
+        font-weight: normal;
+    }
+    #edit_horizontal{
+        color: #d6d6d6;
+        width: 90%;
+    }
+}
